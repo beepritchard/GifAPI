@@ -82,8 +82,4 @@ $(document).on("click", ".gif", function() {
       $(this).attr("src", $(this).attr("data-still"));
       $(this).attr("data-state", "still");
     }
-<<<<<<< HEAD
-  });
-=======
-  });
->>>>>>> 9b7f99adb311584bf8ed1ac86089df31a4bcae38
+});
