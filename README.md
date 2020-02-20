@@ -11,5 +11,5 @@ The code were designed to create the options to control animation
 ## Technical approach:
 Use Ajax call and data attribute to control data-still, data-animate, data-state and scr
 
-### link:
+## link:
 https://beepritchard.github.io/GifAPI/
